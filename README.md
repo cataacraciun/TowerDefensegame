@@ -20,6 +20,7 @@ Core classes in “entitati” package:
 • Proiectil.java – manages projectile behavior and damage
 
 The architecture ensures clear separation between logic, UI, and game elements, making the code easier to manage and extend.
+
  ![image](https://github.com/user-attachments/assets/11eee1b9-52bc-4dad-ab14-cefeeec67c1b)
 
 Figure. 1. System Architecture
@@ -38,8 +39,8 @@ The development of the Tower Defense game was carried out using the Java program
 
 1.4  Visual Assets
 Background image (see Figure 2): A bright, grassy texture with subtle patterns was used to give the game a vibrant and friendly environment. It also serves as the base layer for the path and tower placement.
-![image](https://github.com/user-attachments/assets/2170a7fb-15b7-4e9a-9796-ab9451565701)
 
+![image](https://github.com/user-attachments/assets/2170a7fb-15b7-4e9a-9796-ab9451565701)
  
 Figure. 2. Background image
 
@@ -50,6 +51,7 @@ Enemy design (see Figure 3): The enemy character is a cartoon-style creature wit
 Figure. 3. Enemy design
 
 Tower design (see Figure 4): Towers are shown as stylized medieval structures. When upgraded, they are highlighted with a pink glow and shoot special projectiles to indicate increased power and range.
+
 ![image](https://github.com/user-attachments/assets/72c8e59e-92ec-46a6-88e3-8af00edc7ce1)
  
 Figure. 4. Tower design
@@ -62,8 +64,8 @@ The visual feedback is enhanced with custom images and simple animations. For ex
 Figure.5. Game.
 
 As the game progresses, the waves become increasingly difficult, with enemies gaining more health and speed. Figure 6 illustrates the Game Over state after the player has lost all lives during wave 5, while reaching a score of 460. The message is clearly displayed in red, and the user is given the option to restart the game from the interface.
-![image](https://github.com/user-attachments/assets/5523fa15-2be7-498b-9502-c7689b0b5149)
 
+![image](https://github.com/user-attachments/assets/5523fa15-2be7-498b-9502-c7689b0b5149)
  
 Figure. 6. Game over!
 
